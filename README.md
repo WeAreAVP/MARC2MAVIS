@@ -4,17 +4,15 @@
 ### User Guide
 
 #### Java CLI tool
-Built for the American Folklife Center at the Library of Congress, custom, by AVPreserve
-
+Built for the American Folklife Center at the Library of Congress, custom, by AVPreserve  
 2017-04-27
 
 #### Requirements
-Java Runtime Environment (JRE) or Java Development Kit (JDK)
-
-MARC to MAVIS Collection Record Transformer dist folder
+* Java Runtime Environment (JRE) or Java Development Kit (JDK)
+* MARC to MAVIS Collection Record Transformer dist folder
 
 #### Instructions
-1. Unzip and copy the MARC to MAVIS Collection Record Transformer zip file onto your desktop (or preferred location of your choice)
+1. Unzip and copy the [MARC to MAVIS Collection Record Transformer zip file](https://github.com/avpreserve/MARC2MAVIS/blob/master/MARC-to-MAVIS-Collection-Record-Transformer.zip) onto your desktop (or preferred location of your choice)
 2. Open CMD (Command Prompt) on your Windows machine
 3. Navigate to the dist folder within the MARC to MAVIS Collection Record Transformer folder
 4. Initiate the validator with this command: java -jar Mavis3.jar
